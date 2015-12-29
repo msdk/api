@@ -8,7 +8,6 @@ io.github.msdk.datamodel.ionannotations
 io.github.msdk.datamodel.msspectra
 io.github.msdk.datamodel.rawdata
 io.github.msdk.db.mona
-io.github.msdk.db.mona.pojo
 io.github.msdk.featdet.chromatogrambuilder
 io.github.msdk.featdet.chromatogramtofeaturetable
 io.github.msdk.featdet.gridmass

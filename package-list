@@ -19,6 +19,7 @@ io.github.msdk.features.filtering
 io.github.msdk.features.gapfilling
 io.github.msdk.features.isotopegrouper
 io.github.msdk.features.joinaligner
+io.github.msdk.features.normalization.compound
 io.github.msdk.features.rowfilter
 io.github.msdk.id
 io.github.msdk.id.localdatabasesearch

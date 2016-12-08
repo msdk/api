@@ -38,6 +38,8 @@ io.github.msdk.io.netcdf
 io.github.msdk.io.txt
 io.github.msdk.rawdata.centroiding
 io.github.msdk.rawdata.filters
+io.github.msdk.rawdata.peakinvestigator
+io.github.msdk.rawdata.peakinvestigator.providers
 io.github.msdk.rawdata.xic
 io.github.msdk.spectra.comparison
 io.github.msdk.spectra.isotopepattern
@@ -45,3 +47,4 @@ io.github.msdk.spectra.spectrumtypedetection
 io.github.msdk.spectra.splash
 io.github.msdk.test
 io.github.msdk.util
+io.github.msdk.util.tolerances
